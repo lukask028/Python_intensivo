@@ -1,7 +1,7 @@
 # Python_intensivo
 Curso intensivo curto de python. 
 Abordando : 
-- Automação de processos 
+
 
 # Automação de Sistemas e Processos com Python
 
@@ -13,7 +13,7 @@ O seu trabalho, como analista, é enviar um e-mail para ele, assim que começar 
 E-mail do seu chefe: para o nosso exercício, coloque um e-mail seu como sendo o e-mail do seu chefe<br>
 - ![image](https://github.com/lukask028/Python_intensivo/assets/54475600/1d0ca746-5927-47cb-a661-afc3ba1cb29b)
 
-- Análise de dados 
+
 # Análise de Dados com Python
 
 ### Desafio:
@@ -28,7 +28,7 @@ Qual a profissão? Qual a idade? Qual a faixa de renda? E todas as informações
 
 - ![image](https://github.com/lukask028/Python_intensivo/assets/54475600/9c9cb5dd-77c8-43c2-b06d-22b98a7c1ad6)
 
-- Automação web
+# Automação web
 #### Desafio: 
 
 Trabalhamos em uma importadora e compramos e vendemos commodities:
