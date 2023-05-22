@@ -37,4 +37,10 @@ Trabalhamos em uma importadora e compramos e vendemos commodities:
 Precisamos pegar na internet, de forma automática, a cotação de todas as commodites e ver se ela está abaixo do nosso preço ideal de compra. Se tiver, precisamos marcar como uma ação de compra para a equipe de operações.
 ![image](https://github.com/lukask028/Python_intensivo/assets/54475600/f33de275-2ab7-4f2d-ada8-854996ac52bc)
 
-- Machine learning
+# Machine learning
+#### Desafio:
+- Nosso desafio é conseguir prever o preço de barcos que vamos vender baseado nas características do barco, como: ano, tamanho, tipo de barco, se é novo ou usado, qual material usado, etc.
+
+- Base de Dados: https://drive.google.com/drive/folders/1o2lpxoi9heyQV1hIlsHXWSfDkBPtze-V?usp=share_link
+![image](https://github.com/lukask028/Python_intensivo/assets/54475600/328609bc-759e-4831-96db-72406680c491)
+
